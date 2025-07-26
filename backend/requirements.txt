@@ -1,3 +1,0 @@
-tree_sitter
-ast
-javalangcd 
